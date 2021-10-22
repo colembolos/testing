@@ -1,0 +1,26 @@
+{
+  "name": "rails_api_base",
+  "private": true,
+  "dependencies": {
+    "@activeadmin/activeadmin": "^2.7.0",
+    "@fortawesome/fontawesome-free": "^5.14.0",
+    "@rails/actioncable": "^6.0.3-5",
+    "@rails/activestorage": "^6.0.3-5",
+    "@rails/ujs": "^6.0.3-5",
+    "@rails/webpacker": "^5.4.2",
+    "arctic_admin": "3.2.0",
+    "turbolinks": "^5.2.0",
+    "webpack": "^4.46.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^4.1.0"
+  },
+  "resolutions": {
+    "dot-prop": ">=5.2.0",
+    "is-svg": ">=4.2.2",
+    "node-forge": ">=0.10.0",
+    "ssri": ">=8.0.1",
+    "y18n": ">=4.0.1"
+  }
+}
